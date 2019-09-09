@@ -12,4 +12,4 @@ Use the Color_Detect.py file to scan all six faces
 Put httplib2 folder and the other files in the same directory.
 Burn the C file stepper_final_cube to esp8266 Nodemcu module Change SSID and password in the program
 
-Then run the script cube_solver.sh
+Then run the script Cube_Solver.sh
