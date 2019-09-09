@@ -1,5 +1,5 @@
 # Design a 6 channel transmitter and receiver quadcopter using:
-### * Atmega328p Microcontroller
+    * Atmega328p Microcontroller
     * MPU-6050 sensor
     * Motors
     * Proppellers
